@@ -196,7 +196,7 @@ Y88b.          888           X88       888  888  888    Y888P
  "Y8888P       888       88888P'       888  888  888     Y8P     
                                                                  
                                                                   v1.2
-    LIFE IS A HELL!
+    LIFE IS HELL!
     Welcome "%s"!
     Wanna change the default configurations?
         ''' % win32api.GetUserName()
